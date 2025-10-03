@@ -1,0 +1,1 @@
+yaml name: Sync to OneDrive on: push: branches: – main jobs: sync: runs-on: ubuntu-latest steps: – name: Checkout code uses: actions/checkout@v2 – name: Upload to OneDrive uses: your-action/upload-onedrive@v1 with: client_id: ${{ secrets.CLIENT_ID }} client_secret: ${{ secrets.CLIENT_SECRET }} folder: ‘/path/to/your/onedrive/github - source’
