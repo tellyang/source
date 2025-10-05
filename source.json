@@ -25,14 +25,6 @@
       "name": "小盒子"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
-      "name": "南风"
-    },
-    {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-      "name": "香雅晴"
-    },
-    {
       "url": "http://miqk.cc/小米/DEMO.json",
       "name": "小米"
     },
@@ -79,6 +71,14 @@
     {
       "url": "https://api.hgyx.vip/hgyx.json",
       "name": "HG"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+      "name": "南风"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "香雅晴"
     },
     {
       "url": "http://tv.laohu.cool/tvbox.json",
