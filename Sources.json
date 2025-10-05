@@ -9,6 +9,10 @@
       "name": "天微"
     },
     {
+      "url": "https://欧歌.v.nxog.top/m/",
+      "name": "欧歌"
+    },
+    {
       "url": "http://www.饭太硬.com/tv",
       "name": "饭太硬"
     },
@@ -39,6 +43,14 @@
     {
       "url": "https://yydsys.netlify.app/config.json",
       "name": "多多2"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+      "name": "SVIP"
+    },
+    {
+      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+      "name": "SVIP2"
     },
     {
       "url": "http://xhztv.top/xhz",
@@ -81,12 +93,20 @@
       "name": "肥猫2"
     },
     {
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "name": "潇洒"
+    },
+    {
       "url": "http://www.meowtv.vip/tvbox.json",
       "name": "喵影视"
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
       "name": "小虎斑"
+    },
+    {
+      "url": "https://6492.kstore.space/xnf/xnf.json",
+      "name": "小脑斧"
     },
     {
       "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
