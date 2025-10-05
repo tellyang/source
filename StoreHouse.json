@@ -2,20 +2,32 @@
   "storeHouse": 
   [
     {
-      "sourceName": "默认",
+      "sourceName": "默认仓库",
       "sourceUrl": "https://raw.githubusercontent.com/tellyang/source/refs/heads/main/Sources.json"
     },
     {
-      "sourceName":"备用1",
-      "sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt"
+      "sourceName":"备用线路-gcore",
+      "sourceUrl":"https://gcore.jsdelivr.net/gh/tellyang/source@refs/heads/main/Sources.json"
     },
     {
-      "sourceName":"备用2",
-      "sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多软件库.txt"
+      "sourceName":"备用线路-testingcf",
+      "sourceUrl":"https://testingcf.jsdelivr.net/gh/tellyang/source@refs/heads/main/Sources.json"
     },
     {
-      "sourceName":"备用3",
-      "sourceUrl":"clan://localhost/tvbox/duo.json"
+      "sourceName":"备用线路-quantil",
+      "sourceUrl":"https://quantil.jsdelivr.net/gh/tellyang/source@refs/heads/main/Sources.json"
+    },
+    {
+      "sourceName":"备用线路-fastly",
+      "sourceUrl":"https://fastly.jsdelivr.net/gh/tellyang/source@refs/heads/main/Sources.json"
+    },
+    {
+      "sourceName":"备用线路-originfastly",
+      "sourceUrl":"https://originfastly.jsdelivr.net/gh/tellyang/source@refs/heads/main/Sources.json"
+    },
+    {
+      "sourceName":"备用线路-onmicrosoft",
+      "sourceUrl":"https://jsd.onmicrosoft.cn/gh/tellyang/source@refs/heads/main/Sources.json"
     }
   ]
 }
