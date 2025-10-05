@@ -73,20 +73,44 @@
       "name": "驸马"
     },
     {
-      "url": "http://hello.肥猫.com",
+      "url": "http://肥猫.com",
       "name": "肥猫"
     },
     {
-      "name": "小虎斑",
-      "url": "http://hb.小虎斑.site:25252/仅供测试"
+      "url": "http://hello.肥猫.com",
+      "name": "肥猫2"
+    },
+    {
+      "url": "http://www.meowtv.vip/tvbox.json",
+      "name": "喵影视"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "name": "小虎斑"
     },
     {
       "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
       "name": "分享者"
     },
     {
-      "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
       "name": "青龙"
+    },
+    {
+      "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+      "name": "青龙2"
+    },
+    {
+      "url": "https://tv.xn--yhqu5zs87a.top",
+      "name": "菜妮丝"
+    },
+    {
+      "url":"http://cdn.qiaoji8.com/tvbox.json",
+      "name": "巧技"
+    },
+    {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
+      "name": "胜寒"
     },
     {
       "url": "https://api.hgyx.vip/hgyx.json",
@@ -95,6 +119,14 @@
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
       "name": "南风"
+    },
+    {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "南风2"
+    },
+    {
+      "url": "https://clun.top/box.json",
+      "name": "小白"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
