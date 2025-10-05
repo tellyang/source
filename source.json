@@ -29,6 +29,18 @@
       "name": "南风"
     },    
     {
+      "url": "http://meowtv.cn/tv",
+      "name": "喵影视"
+    },
+    {
+      "url": "https://dxawi.github.io/0/0.json",
+      "name": "dxawi"
+    },
+    {
+      "url": "https://api.hgyx.vip/hgyx.json",
+      "name": "HG"
+    },
+    {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "香雅晴"
     },
