@@ -9,10 +9,6 @@
       "name": "七星影仓"
     },   
     {
-      "url": "http://tv.laohu.cool/tvbox.json",
-      "name": "老虎线路"
-    },
-    {
       "url": "http://www.饭太硬.com/tv",
       "name": "饭硬专线"
     },
@@ -64,6 +60,10 @@
     {
       "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
       "name": "青龙影线"
+    },
+    {
+      "url": "http://tv.laohu.cool/tvbox.json",
+      "name": "老虎线路"
     }
   ]
 }
