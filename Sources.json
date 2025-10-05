@@ -21,6 +21,14 @@
       "name": "饭太硬"
     },
     {
+      "url": "http://fty.xxooo.cf/tv",
+      "name": "饭太硬2"
+    },
+    {
+      "url": "http://fty.888484.xyz/tv",
+      "name": "饭太硬3"
+    },
+    {
       "url": "https://毒盒.com/tv/",
       "name": "毒盒"
     },
@@ -39,6 +47,10 @@
     {
       "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
       "name": "蓝莓短剧"
+    },
+    {
+      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+      "name": "爱看短剧"
     },
     {
       "url": "https://yydsys.top/duo",
@@ -154,7 +166,7 @@
     },
     {
       "url":"http://cdn.qiaoji8.com/tvbox.json",
-      "name": "巧技"
+      "name": "巧记"
     },
     {
       "url": "https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
