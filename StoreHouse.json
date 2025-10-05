@@ -6,27 +6,27 @@
       "sourceUrl": "https://raw.githubusercontent.com/tellyang/source/refs/heads/main/Sources.json"
     },
     {
-      "sourceName":"备用线路-gcore",
+      "sourceName":"备用-gcore",
       "sourceUrl":"https://gcore.jsdelivr.net/gh/tellyang/source@refs/heads/main/Sources.json"
     },
     {
-      "sourceName":"备用线路-testingcf",
+      "sourceName":"备用-testingcf",
       "sourceUrl":"https://testingcf.jsdelivr.net/gh/tellyang/source@refs/heads/main/Sources.json"
     },
     {
-      "sourceName":"备用线路-quantil",
+      "sourceName":"备用-quantil",
       "sourceUrl":"https://quantil.jsdelivr.net/gh/tellyang/source@refs/heads/main/Sources.json"
     },
     {
-      "sourceName":"备用线路-fastly",
+      "sourceName":"备用-fastly",
       "sourceUrl":"https://fastly.jsdelivr.net/gh/tellyang/source@refs/heads/main/Sources.json"
     },
     {
-      "sourceName":"备用线路-originfastly",
+      "sourceName":"备用-originfastly",
       "sourceUrl":"https://originfastly.jsdelivr.net/gh/tellyang/source@refs/heads/main/Sources.json"
     },
     {
-      "sourceName":"备用线路-onmicrosoft",
+      "sourceName":"备用-onmicrosoft",
       "sourceUrl":"https://jsd.onmicrosoft.cn/gh/tellyang/source@refs/heads/main/Sources.json"
     }
   ]
