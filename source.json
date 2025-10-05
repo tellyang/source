@@ -27,18 +27,6 @@
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
       "name": "南风"
-    },    
-    {
-      "url": "http://meowtv.cn/tv",
-      "name": "喵影视"
-    },
-    {
-      "url": "https://dxawi.github.io/0/0.json",
-      "name": "dxawi"
-    },
-    {
-      "url": "https://api.hgyx.vip/hgyx.json",
-      "name": "HG"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
@@ -87,6 +75,10 @@
     {
       "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
       "name": "青龙"
+    },
+    {
+      "url": "https://api.hgyx.vip/hgyx.json",
+      "name": "HG"
     },
     {
       "url": "http://tv.laohu.cool/tvbox.json",
