@@ -1,4 +1,10 @@
 {
+	"configurations": [
+        {
+            "cwd": "${fileDirname}"
+        }
+    ]
+
   "urls": [
     {
       "url": "http://yanghao.myds.me:800/source/localbag/OK/tv.json",
