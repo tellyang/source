@@ -93,7 +93,7 @@
       "name": "潇洒（本地）"
     },
     {
-      "url": "http://yanghao.myds.me:800/source/localbag/潇洒2/api.json",
+      "url": "./source/localbag/潇洒2/api.json",
       "name": "潇洒2（本地）"
     },
     {
