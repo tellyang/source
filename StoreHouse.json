@@ -3,10 +3,10 @@
   [
     {
       "sourceName": "NAS",
-      "sourceUrl": "http://yanghao.myds.me:800/Sources.json"
+      "sourceUrl": "http://yanghao.myds.me:800/source/Sources.json"
     },
     {
-      "sourceName": "默认仓库",
+      "sourceName": "Github",
       "sourceUrl": "https://raw.githubusercontent.com/tellyang/source/refs/heads/main/Sources.json"
     },
     {
