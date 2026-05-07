@@ -1,8 +1,12 @@
 {
   "urls": [
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/OK/ok.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/OK/tv.json",
       "name": "OK（本地）"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/OK2/ok.json",
+      "name": "OK2（本地）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/嗷呜/aowu.json",
