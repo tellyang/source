@@ -1,79 +1,79 @@
 {
   "urls": [
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/OK/ok.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/OK/ok.json",
       "name": "OK（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/嗷呜/aowu.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/嗷呜/aowu.json",
       "name": "嗷呜（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/饭太硬/fty.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/饭太硬/fty.json",
       "name": "饭太硬（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/肥猫/肥猫.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/肥猫/肥猫.json",
       "name": "肥猫（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/肥猫2/api.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/肥猫2/api.json",
       "name": "肥猫2（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/驸马/fmys.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/驸马/fmys.json",
       "name": "驸马（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/摸鱼儿/moyu.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/摸鱼儿/moyu.json",
       "name": "摸鱼儿（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/南风/XC.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/南风/XC.json",
       "name": "南风（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/南风2/api.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/南风2/api.json",
       "name": "南风2（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/欧歌/ouge.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/欧歌/ouge.json",
       "name": "欧歌（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/巧记/qiaoji.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/巧记/qiaoji.json",
       "name": "巧记（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/少儿频道/api.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/少儿频道/api.json",
       "name": "少儿频道（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/王二小/erxiao.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/王二小/erxiao.json",
       "name": "王二小（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/戏曲音乐/api.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/戏曲音乐/api.json",
       "name": "戏曲音乐（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/香雅情/api.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/香雅情/api.json",
       "name": "香雅情（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/潇洒/TVBoxOSC/tvbox/api.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/潇洒/TVBoxOSC/tvbox/api.json",
       "name": "潇洒（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/小虎斑/huban.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/小虎斑/huban.json",
       "name": "小虎斑（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/小米/xiaomi.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/小米/xiaomi.json",
       "name": "小米（本地）"
     },
     {
-      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/localbag/真心/FongMi.json",
+      "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/真心/FongMi.json",
       "name": "真心（本地）"
     },
     {
