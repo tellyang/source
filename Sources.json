@@ -1,84 +1,164 @@
 {
   "urls": [
     {
+      "url": "http://yanghao.myds.me:800/source/localbag/OK/tv.json",
+      "name": "OK（nas）"
+    },
+    {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/OK/tv.json",
-      "name": "OK（本地）"
+      "name": "OK（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/OK2/ok.json",
+      "name": "OK2（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/OK2/ok.json",
-      "name": "OK2（本地）"
+      "name": "OK2（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/嗷呜/aowu.json",
+      "name": "嗷呜（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/嗷呜/aowu.json",
-      "name": "嗷呜（本地）"
+      "name": "嗷呜（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/饭太硬/fty.json",
+      "name": "饭太硬（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/饭太硬/fty.json",
-      "name": "饭太硬（本地）"
+      "name": "饭太硬（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/肥猫/肥猫.json",
+      "name": "肥猫（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/肥猫/肥猫.json",
-      "name": "肥猫（本地）"
+      "name": "肥猫（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/肥猫2/api.json",
+      "name": "肥猫2（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/肥猫2/api.json",
-      "name": "肥猫2（本地）"
+      "name": "肥猫2（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/驸马/fmys.json",
+      "name": "驸马（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/驸马/fmys.json",
-      "name": "驸马（本地）"
+      "name": "驸马（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/摸鱼儿/moyu.json",
+      "name": "摸鱼儿（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/摸鱼儿/moyu.json",
-      "name": "摸鱼儿（本地）"
+      "name": "摸鱼儿（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/南风/XC.json",
+      "name": "南风（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/南风/XC.json",
-      "name": "南风（本地）"
+      "name": "南风（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/南风2/api.json",
+      "name": "南风2（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/南风2/api.json",
-      "name": "南风2（本地）"
+      "name": "南风2（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/欧歌/ouge.json",
+      "name": "欧歌（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/欧歌/ouge.json",
-      "name": "欧歌（本地）"
+      "name": "欧歌（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/巧记/qiaoji.json",
+      "name": "巧记（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/巧记/qiaoji.json",
-      "name": "巧记（本地）"
+      "name": "巧记（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/少儿频道/api.json",
+      "name": "少儿频道（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/少儿频道/api.json",
-      "name": "少儿频道（本地）"
+      "name": "少儿频道（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/王二小/erxiao.json",
+      "name": "王二小（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/王二小/erxiao.json",
-      "name": "王二小（本地）"
+      "name": "王二小（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/戏曲音乐/api.json",
+      "name": "戏曲音乐（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/戏曲音乐/api.json",
-      "name": "戏曲音乐（本地）"
+      "name": "戏曲音乐（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/香雅情/api.json",
+      "name": "香雅情（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/香雅情/api.json",
-      "name": "香雅情（本地）"
+      "name": "香雅情（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/潇洒/TVBoxOSC/tvbox/api.json",
+      "name": "潇洒（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/潇洒/TVBoxOSC/tvbox/api.json",
-      "name": "潇洒（本地）"
+      "name": "潇洒（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/小虎斑/huban.json",
+      "name": "小虎斑（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/小虎斑/huban.json",
-      "name": "小虎斑（本地）"
+      "name": "小虎斑（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/小米/xiaomi.json",
+      "name": "小米（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/小米/xiaomi.json",
-      "name": "小米（本地）"
+      "name": "小米（git）"
+    },
+    {
+      "url": "http://yanghao.myds.me:800/source/localbag/真心/FongMi.json",
+      "name": "真心（nas）"
     },
     {
       "url": "https://raw.githubusercontent.com/tellyang/localbag/refs/heads/main/真心/FongMi.json",
-      "name": "真心（本地）"
+      "name": "真心（git）"
     },
     {
       "url": "http://ok321.top/tv",
